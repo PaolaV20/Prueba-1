@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2015\Projects\Todeitor\Todeitor\bin\Debug\Todeitor.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\Todeitor\Todeitor\bin\Debug\Todeitor.exe
+c:\users\mike\documents\visual studio 2015\Projects\Todeitor\Todeitor\bin\Debug\Todeitor.pdb
+c:\users\mike\documents\visual studio 2015\Projects\Todeitor\Todeitor\obj\Debug\Todeitor.Form1.resources
+c:\users\mike\documents\visual studio 2015\Projects\Todeitor\Todeitor\obj\Debug\Todeitor.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2015\Projects\Todeitor\Todeitor\obj\Debug\Todeitor.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2015\Projects\Todeitor\Todeitor\obj\Debug\Todeitor.exe
+c:\users\mike\documents\visual studio 2015\Projects\Todeitor\Todeitor\obj\Debug\Todeitor.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\obj\Debug\Todeitor.csprojResolveAssemblyReference.cache

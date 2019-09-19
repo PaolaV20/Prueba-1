@@ -1,0 +1,8 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\bin\Release\Todeitor.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\bin\Release\Todeitor.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\bin\Release\Todeitor.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\obj\Release\Todeitor.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\obj\Release\Todeitor.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\obj\Release\Todeitor.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\obj\Release\Todeitor.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Todeitor\Todeitor\obj\Release\Todeitor.pdb
